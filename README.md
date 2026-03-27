@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner de presentación" width="100%">
+  <img src="banner.png" alt="Banner de presentación" width="80%">
 </p>
 
 # ¡Hola, soy Yarima Contreras Blanco! 🎨💻
@@ -50,12 +50,12 @@ Estudiante de Licenciatura en Computación con talento creativo desarrollado en 
 
 </div>
 
-## 📊 Estadísticas de GitHub
+<!-- ## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaricb&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaricb&layout=compact&theme=radical" alt="Lenguajes más usados" height="150" />
-</p>
+</p> -->
 
 ## 📫 Contáctame
 
