@@ -71,6 +71,8 @@ Estudiante de Licenciatura en Computación con talento creativo desarrollado en 
 
 </div>
 
+---
+
 ## 📫 Contact Me / Contáctame
 
 <div align="center">
