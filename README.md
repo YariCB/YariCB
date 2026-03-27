@@ -3,7 +3,7 @@
 </p>
 
 # ¡Hola, soy Yarima Contreras Blanco! 🎨💻
-Estudiante de Computación UCV | Ilustradora | Frontend & UI
+Estudiante de Computación UCV | Ilustradora
 
 ## 🌸 Sobre mí
 
