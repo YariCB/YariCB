@@ -61,7 +61,7 @@ Estudiante de Licenciatura en Computación con talento creativo desarrollado en 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_LINK_DE_LINKEDIN](https://www.linkedin.com/in/yarima-contreras-blanco-1a37a7323/?trk=nav_responsive_tab_profile_pic))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_LINK_DE_LINKEDIN](https://www.linkedin.com/in/yarima-contreras-blanco-1a37a7323/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarimacontreras.ucv@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_yaricb_)
 
