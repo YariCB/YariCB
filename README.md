@@ -59,6 +59,7 @@ Estudiante de Licenciatura en Computación con talento creativo desarrollado en 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Pentaho](https://img.shields.io/badge/Pentaho-0E59A3?style=flat-square&logo=hitachi&logoColor=white)
+![Metabase](https://img.shields.io/badge/Self--host-Metabase-blue?logo=metabase)
 
 ### 🎨 Design & Illustration / Diseño & Ilustración
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -67,7 +68,6 @@ Estudiante de Licenciatura en Computación con talento creativo desarrollado en 
 ![MediBang](https://img.shields.io/badge/MediBang-2FA3E0?style=flat-square)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-00E5FF?style=flat-square)
-![Rhino](https://img.shields.io/badge/Grasshopper-85B064?style=flat-square&logo=grasshopper&logoColor=white)
 
 </div>
 
